@@ -9,7 +9,7 @@ Mainly a FullStack Developer, a Javascript Engineer with PHP in my Heart and Swo
     Asynchronous, Event-Driven, Multi-Threaded & Routine based scripting in PHP
     
     Socket Programming with Swoole, Ratchet & Node.js, Multiplexing Streams 
-    with WebSocket-/-HTTP2 Protocol and Real-Time Communication via WebRTC
+    with WebSocket-/-HTTP2/3 QUIC Protocol and Real-Time Communication via WebRTC
     
     Currently furnishing Python mainly for AI & ML along with Data Science
 
